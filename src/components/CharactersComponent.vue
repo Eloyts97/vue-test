@@ -7,7 +7,7 @@
             <div class="info">
                 <span><strong>{{ character.name }}</strong></span>
                 <div class="sub info">
-                    <span>Status: <strong v-bind:class="character.status">{{character.status}}</strong></span>
+                    <span>Status: <strong v-bind:class="character.status">{{character.status}} - {{character.species}}</strong></span>
                     <span>Location: <strong>{{character.location.name}}</strong></span>
                 </div>
             </div>
