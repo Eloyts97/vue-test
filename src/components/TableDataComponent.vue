@@ -4,7 +4,7 @@
             <!-- Pass header data to TableRowComponent -->
             <div class="row">
                 <div class="column">
-
+                    Header
                 </div>
             </div>
         </div>
@@ -12,7 +12,7 @@
             <!-- Pass body data to TableRowComponent -->
             <div class="row">
                 <div class="column">
-                    
+                    Row
                 </div>
             </div>
         </div>
